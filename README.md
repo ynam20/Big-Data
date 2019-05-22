@@ -12,7 +12,7 @@ using histograms.
 Assignment 2: 
 Performed cross validation on a Naive Bayesian classifier to predict the probability
 that a character was a hero or villain. X training set was comprised of the alliances
-a given character was a part of. 
+a given character belonged to. 
 
 Printed entropy of each split in a decision tree classifier for the aforementioned data. 
 
@@ -24,6 +24,12 @@ Performed sentiment analysis
 on Marvel characters and graphed the results using histograms for each faction (hero, villain, ambiguous).
 Additionally, I created a bag of words matrix, whose corpus consisted of all Marvel characters' Wiki pages.
 Performed TF-IDF analysis, printed 10 highest scoring words for each of the 10 most popular heroes and villains. 
+
+Final Project:
+Used natural language processing to analyze Donald Trump's tweet patterns. 
+Our project was featured on the front page of medium.com's data science section,
+which receives over 10 MILLION monthly views.  
+https://medium.com/@AlexS19376448/political-polarization-on-twitter-8aaaf880dc52
 
 Kaggle competition:
 Used a random forest classifier to predict whether or not a Titanic passenger would live. Features included
